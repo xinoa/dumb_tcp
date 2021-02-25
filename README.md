@@ -1,5 +1,4 @@
 # dumb_tcp
-I am so impressed actually! With Qt you can do amazing stuff with a relatively tiny codebase!
-And no they are not paying me to advertise for them :)
-
+Silly app but might become a handy tool sometimes.
 Manually send and recieve messages between a client and a server instance. Basic IP address validation using regular expressions.
+Qt is amazing btw. I'm impressed!
